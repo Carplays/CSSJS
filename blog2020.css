@@ -708,7 +708,7 @@ display: block;
 .sidebar h2 {
 position: relative;
     overflow: hidden;
-    margin: 0;
+    margin: 1;
     font-size: 1.1em;
     text-transform: uppercase;
     font-weight: 700;
